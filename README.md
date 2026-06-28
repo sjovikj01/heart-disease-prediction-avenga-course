@@ -68,3 +68,12 @@ This makes it suitable as a **screening support tool**, not a medical diagnostic
 
 ```bash
 pip install -r requirements.txt
+
+## Dataset
+
+This project uses the **UCI Heart Disease Dataset (Cleveland)**.
+
+Dataset source:
+https://archive.ics.uci.edu/dataset/45/heart+disease
+
+The dataset can be downloaded directly from the UCI Machine Learning Repository.
